@@ -1,7 +1,7 @@
 import logger from '#config/logger.js';
 import jwt from 'jsonwebtoken';
 
-const JWT_SECRET = prcoess.env.JWT_SECRET || 'your-secret-key';
+const JWT_SECRET = process.env.JWT_SECRET || 'your-secret-key';
 const JWT_EXPIRES_IN = '1d';
 
 export const jwttoken = {
