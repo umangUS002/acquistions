@@ -87,3 +87,53 @@
 {"level":"info","message":"::1 - - [07/Apr/2026:17:04:14 +0000] \"GET /api HTTP/1.1\" 403 52 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
 {"ip":"::1","level":"warn","message":"Rate Limit Exceeded","path":"/api","service":"acquistions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"}
 {"level":"info","message":"::1 - - [07/Apr/2026:17:04:19 +0000] \"GET /api HTTP/1.1\" 403 52 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:35:56 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:35:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:43:34 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:49:35 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:49:39 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:49:42 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:50:01 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:50:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:50:31 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:51:02 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:51:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:52:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:52:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"ip":"::ffff:172.23.0.1","level":"warn","message":"Bot request blocked","path":"/api","service":"acquistions-api","userAgent":"PostmanRuntime/7.51.1"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:52:54 +0000] \"GET /api HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:53:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"ip":"::ffff:172.23.0.1","level":"warn","message":"Bot request blocked","path":"/","service":"acquistions-api","userAgent":"PostmanRuntime/7.51.1"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:53:05 +0000] \"GET / HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.1\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:53:35 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:54:06 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:54:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:55:07 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"Hello from Acquistions!","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:55:30 +0000] \"GET / HTTP/1.1\" 200 22 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:55:38 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:55:43 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:56:00 +0000] \"POST /api/signup HTTP/1.1\" 404 27 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:56:06 +0000] \"POST /api/sign-up HTTP/1.1\" 404 27 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
+{"ip":"::1","level":"warn","message":"Rate Limit Exceeded","path":"/health","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:56:08 +0000] \"GET /health HTTP/1.1\" 403 52 \"-\" \"-\"","service":"acquistions-api"}
+{"ip":"::1","level":"warn","message":"Rate Limit Exceeded","path":"/health","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:56:39 +0000] \"GET /health HTTP/1.1\" 403 52 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:57:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:57:16 +0000] \"POST /api/sign-up HTTP/1.1\" 404 27 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:57:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"error","message":"Signup error errors.issues.map(...).json is not a function","service":"acquistions-api","stack":"TypeError: errors.issues.map(...).json is not a function\n    at formatValidationError (file:///app/src/utils/format.js:4:79)\n    at signup (file:///app/src/controllers/auth.controller.js:15:18)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at /app/node_modules/router/index.js:295:15\n    at processParams (/app/node_modules/router/index.js:582:12)\n    at next (/app/node_modules/router/index.js:291:5)"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:17:58:08 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 948 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:58:10 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:58:41 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:59:12 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:17:59:42 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:18:00:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"info","message":"::1 - - [07/Apr/2026:18:00:43 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquistions-api"}
+{"level":"error","message":"Signup error errors.issues.map(...).json is not a function","service":"acquistions-api","stack":"TypeError: errors.issues.map(...).json is not a function\n    at formatValidationError (file:///app/src/utils/format.js:4:79)\n    at signup (file:///app/src/controllers/auth.controller.js:15:18)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at next (/app/node_modules/router/lib/route.js:157:13)\n    at Route.dispatch (/app/node_modules/router/lib/route.js:117:3)\n    at handle (/app/node_modules/router/index.js:435:11)\n    at Layer.handleRequest (/app/node_modules/router/lib/layer.js:152:17)\n    at /app/node_modules/router/index.js:295:15\n    at processParams (/app/node_modules/router/index.js:582:12)\n    at next (/app/node_modules/router/index.js:291:5)"}
+{"level":"info","message":"::ffff:172.23.0.1 - - [07/Apr/2026:18:00:54 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 948 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquistions-api"}
