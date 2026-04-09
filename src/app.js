@@ -31,7 +31,7 @@ app.get('/health', (req, res) => {
 });
 
 app.get('/api', (req, res) => {
-  res.status(200).json({ message: 'Acquistions API is running! '});
+  res.status(200).json({ message: 'Acquistions API is running!'});
 });
 
 app.use('/api/auth', router);
@@ -40,5 +40,9 @@ app.use('/api/users', usersRouter);
 app.use((req, res) => {
   res.status(404).json({ error: 'Route not found' });
 });
+
+app.use((req, res) => {
+  res.status(404).json({ error: 'Route not found' });
+})
 
 export default app;
