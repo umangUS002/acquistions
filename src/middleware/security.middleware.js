@@ -2,7 +2,7 @@ import aj from '#config/arcjet.js';
 import logger from '#config/logger.js';
 import { slidingWindow } from '@arcjet/node';
 
-const securityMiddleware = async (req, res, next) => {
+export const securityMiddleware = async (req, res, next) => {
   try {
     const role = req.user?.role || 'guest';
 
@@ -79,4 +79,3 @@ const securityMiddleware = async (req, res, next) => {
     });
   }
 };
-export default securityMiddleware;
